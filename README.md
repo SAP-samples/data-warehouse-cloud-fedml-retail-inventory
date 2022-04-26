@@ -1,9 +1,9 @@
 
 
-# Retail Inventory prediction and comparitive retail consumption analysis using FedML
+# Retail Inventory prediction and comparative retail consumption analysis using FedML
 
 ## Description
-Explore how to use SAP Data Warehouse Cloud and  FedML hyperscaler libraries to source data , build,train and deploy machine learning models on hyperscaler platforms for predicting inventory  allocations , and to do comparative retail omparitive retail consumption analysis and derive insights using SAP Analytics cloud - all without data duplication.
+Explore how to use SAP Data Warehouse Cloud and  FedML hyperscaler libraries to source data , build,train and deploy machine learning models on hyperscaler platforms for predicting inventory allocations , and to do comparative retail consumption analysis and derive insights using SAP Analytics cloud - all without data duplication.
 
 ## Solution Architecture
 ![Solution Architecture](./Solution-Diagram.jpg)
@@ -13,7 +13,7 @@ In general cases, for conducting machine learning experiments on hyperscaler pla
 
 
 ## Solution
-FedML python libraries for hyperscalers helps create an end to end automated solution for doing the ML experiments on hyperscalers without moving or duplicating any data to the hyperscaler. The models are deployed on SAP BTP Kyma. The solution uses SAP DWC's data federation architecture and a unified semantic layer that helps model the queries across distributed data sources without the need do extract any data out from anywhere. SAP Analytics Cloud helps visualize the live data to compare retail inventory comsumption and prediction using data coming in from online retail platforms.
+FedML python libraries for hyperscalers helps create an end to end automated solution for doing the ML experiments on hyperscalers without moving or duplicating any data to the hyperscaler. The models are deployed on SAP BTP Kyma. The solution uses SAP DWC's data federation architecture and a unified semantic layer that helps model the queries across distributed data sources without the need do extract any data out from anywhere. SAP Analytics Cloud helps visualize live data to compare retail inventory predictions against the live inventory consumption data coming in from online retail platforms.
 
 ## Requirements
 
