@@ -1,0 +1,13 @@
+{
+    "address":  "<The IP address or host name of the database instance. Required. String>",
+    "port": "<The port number of the database instance. Required. String>",
+    "user": "<The database user. Required. String>",
+    "password": "<The database user's password. Required. String>",
+    "schema": "<The SAP Dataware house cloud Space Schema. Optional. String>",
+    "encrypt": "<default is true . Denotes an encrypted connection. String>",
+    "sslValidateCertificate": "<default is false . Specifies whether to validate the server's certificate. String>",
+    "disableCloudRedirect": "<default is true. Specifies if there should be a tenant redirection for a cloud instance. String>",
+    "communicationTimeout": "<default is 0. Value of 0 Disables any communicaiton Timeouts. String>" ,
+    "autocommit": "<default is true. Sets auto commit to true for the database connection. String>",
+    "sslUseDefaultTrustStore": "<default is true. Denotes the use of client's default trust store. String>"
+}
