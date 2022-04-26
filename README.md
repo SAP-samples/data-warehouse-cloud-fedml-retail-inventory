@@ -26,7 +26,7 @@ FedML python libraries for hyperscalers helps create an end to end automated sol
 * [Sign up for BTP Trial acount and enable Kyma](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 * [Enable Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-getting-started.html)
 * [Sign up for SAP Data Warehouse cloud trial](https://www.sap.com/products/data-warehouse-cloud/trial.html)
-* [Run the Retail_Project.ipynb as per the documentation](../run_notebook.md)
+* [Run the Retail_Project.ipynb](https://github.com/SAP-samples/data-warehouse-cloud-fedml-retail-inventory/blob/main/Retail_project.ipynb)
 
 ## Limitations
 This example contains no known limitations.
