@@ -1,4 +1,4 @@
-
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/data-warehouse-cloud-fedml-retail-inventory)](https://api.reuse.software/info/github.com/SAP-samples/data-warehouse-cloud-fedml-retail-inventory)
 
 # Retail Inventory prediction and comparative retail consumption analysis using FedML
 
